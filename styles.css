@@ -4,6 +4,12 @@ body{
     color: #a9e6f5ec;
 }
 
+hr{
+    height: 1px;
+    border-width: 0;
+    background-color: #a9e6f5ec;
+}
+
 .jumbo{
     text-align: center;
     background-color: #a9e6f5ec;
